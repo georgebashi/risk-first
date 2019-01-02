@@ -50,7 +50,7 @@ If we accept the assertion above that _all_ the actions we take on a project are
 
 For example:
 
- - If we do a [Code Review](Review), we are partly trying to minimise the risks of bugs slipping through into production, and also manage the [Key-Man Risk](Coordination-Risk) of knowledge not being widely-enough shared. 
+ - If we do a [Code Review](Review), we are partly trying to minimise the risks of bugs slipping through into production, and also manage the [Key Person Risk](Coordination-Risk) of knowledge not being widely-enough shared. 
  - If we write [Unit Tests](Testing), we’re addressing the risk of bugs going to production, but we’re also mitigating against the risk of _regression_, and future changes breaking our existing functionality.   
  - If we enter into a [contract with a supplier](Contract), we are mitigating the risk of the supplier vanishing and leaving us exposed.  With the contract in place, we have legal recourse against this risk.
 
